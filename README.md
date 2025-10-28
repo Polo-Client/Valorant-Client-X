@@ -34,7 +34,7 @@
 - Administrator privileges
 
 ## INSTALLATION
-1. Download the training package
+### 1. Download **Release**
 2. Extract to secure directory
 3. Run installer as administrator
 4. Launch Valorant
@@ -42,7 +42,6 @@
 
 ## IMPORTANT NOTES
 - For educational purposes only
-- Use at your own risk
 - Regular updates required
 - Some features may require configuration
 
